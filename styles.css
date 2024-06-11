@@ -1,0 +1,31 @@
+/*
+ this is stuff from out first css class, it goes over
+ colors, bg colors, fonts, sizes, id's and classes!!
+ */
+
+.navbar {
+  background-color: hotpink;
+ }
+
+body {
+  background-color: orange;
+}
+
+h1 {
+  color: darkgreen;
+  background-color: goldenrod;
+  font-size: medium;
+}
+
+p {
+  font-family: fantasy;
+}
+
+#foo {
+  color: darkred;
+  background-color: goldenrod;
+}
+
+.bg-blue {
+  background-color: cyan;
+}
